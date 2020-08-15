@@ -1,2 +1,2 @@
-# CV-Rookie
+# Homepage
 JuyongJiang's Homepage
