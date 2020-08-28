@@ -58,6 +58,17 @@ body{
   color: #DDDDDD;
 }
 
+.profile-link-h{
+  font-size: 12pt;
+}
+
+.profile-link-h a {
+  color: white;
+}
+.profile-link-h a:hover {
+  color: #DDDDDD;
+}
+
 .profile-block {
     background-color: #fff;
     transition: box-shadow .25s;
