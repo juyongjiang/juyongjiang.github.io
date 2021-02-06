@@ -81,11 +81,11 @@ body{
 
 .profile-content-block{
     color: white;
-    padding-top: 30px !important;
+    padding-top: 30px !important; /*10px*/
 }
 
 .profile-photo{
-    border-radius: 125px !important;
+    border-radius: 100px !important; /*125px*/
     border-color: white;
     margin: 10px;
 }
