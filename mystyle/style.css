@@ -85,7 +85,7 @@ body{
 }
 
 .profile-photo{
-    border-radius: 100px !important; /*125px*/
+    border-radius: 125px !important; /*125px*/
     border-color: white;
     margin: 10px;
 }
